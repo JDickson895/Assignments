@@ -49,7 +49,14 @@ header {
     margin-right: 50px;
 }
 
+/*This is a pseduo class*/
+
 .navbar a:hover {
+    color: #e7ae22;
+}
+
+/*Active state*/
+.navbar a:active {
     color: #e7ae22;
 }
 
