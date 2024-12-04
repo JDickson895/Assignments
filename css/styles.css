@@ -55,16 +55,6 @@ header {
     color: #e7ae22;
 }
 
-/*Active state*/
-.navbar li a:active {
-    color: #e7ae22;
-}
-
-/*Focus state*/
-.navbar li a:focus {
-    color: #e7ae22;
-}
-
 /* Hero Section */
 .hero {
     height: 50%;
