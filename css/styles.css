@@ -51,17 +51,17 @@ header {
 
 /*This is a pseduo class*/
 
-.navbar a:hover {
+.navbar li a:hover {
     color: #e7ae22;
 }
 
 /*Active state*/
-.navbar a:active {
+.navbar li a:active {
     color: #e7ae22;
 }
 
 /*Focus state*/
-.navbar a:focus {
+.navbar li a:focus {
     color: #e7ae22;
 }
 
