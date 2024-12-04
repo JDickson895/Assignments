@@ -60,6 +60,11 @@ header {
     color: #e7ae22;
 }
 
+/*Focus state*/
+.navbar a:focus {
+    color: #e7ae22;
+}
+
 /* Hero Section */
 .hero {
     height: 50%;
